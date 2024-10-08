@@ -27,7 +27,6 @@ export default defineConfig({
       ],
     ],
     shikiConfig: {
-      // For more themes, visit https://shiki.style/themes
       themes: { light: "min-light", dark: "night-owl" },
       wrap: true,
     },
@@ -36,9 +35,15 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
+    build: {
+      minify: "terser",
+    },
   },
   scopedStyleStrategy: "where",
   experimental: {
     contentLayer: true,
+  },
+  build: {
+    inlineStylesheets: "auto",
   },
 });
