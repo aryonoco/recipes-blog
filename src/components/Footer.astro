@@ -4,6 +4,7 @@ import { Image } from "astro:assets";
 import cc from "../assets/cc.svg";
 import by from "../assets/by.svg";
 import LinkButton from "@components/LinkButton.astro";
+import Socials from "@components/Socials.astro";
 
 const currentYear = new Date().getFullYear();
 
@@ -17,8 +18,11 @@ const { noMarginTop = false } = Astro.props;
 <footer class={`${noMarginTop ? "" : "mt-auto"}`}>
   <Hr noPadding />
   <div class="footer-wrapper pb-6 pt-4 sm:pb-8">
-    <div class="copyright-wrapper">
-      Copyright &#169; {currentYear} Aryan Ameri
+    <div class="flex items-center justify-between">
+      <div class="copyright-wrapper">
+        Copyright &#169; {currentYear} Aryan Ameri
+      </div>
+      <Socials />
     </div>
     <div class="license-wrapper flex items-center gap-1">
       <span>This website is licenced under</span>
@@ -28,11 +32,23 @@ const { noMarginTop = false } = Astro.props;
       >
         CC BY 4.0
       </LinkButton>
-      <Image src={cc} alt="creative commons logo" width="20" height="20" />
-      <Image src={by} alt="CC attribution logo" width="20" height="20" />
+      <Image
+        src={cc}
+        alt="creative commons logo"
+        class="h-5 w-auto"
+        width={20}
+        height={20}
+      />
+      <Image
+        src={by}
+        alt="CC attribution logo"
+        class="h-5 w-auto"
+        width={20}
+        height={20}
+      />
     </div>
     <p>
-      All text is original work written with only the assisntance of a
+      All text is original work written with only the assistance of a
       spellchecker.
     </p>
   </div>
