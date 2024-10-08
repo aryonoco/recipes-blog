@@ -1,0 +1,24 @@
+name: Update robots.txt
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-robots:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - run: npm ci
+      - run: npm run update-robots
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/pages/robots.txt.ts
+          git commit -m "Update robots.txt" || echo "No changes to commit"
+          git push
