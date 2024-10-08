@@ -46,4 +46,5 @@ export default defineConfig({
   build: {
     inlineStylesheets: "auto",
   },
+  publicDir: "./public",
 });
