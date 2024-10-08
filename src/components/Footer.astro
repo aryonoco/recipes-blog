@@ -18,11 +18,9 @@ const { noMarginTop = false } = Astro.props;
 <footer class={`${noMarginTop ? "" : "mt-auto"}`}>
   <Hr noPadding />
   <div class="footer-wrapper pb-6 pt-4 sm:pb-8">
-    <div class="flex items-center justify-between">
-      <div class="copyright-wrapper">
-        Copyright &#169; {currentYear} Aryan Ameri
-      </div>
-      <Socials />
+    <Socials centered />
+    <div class="copyright-wrapper">
+      Copyright &#169; {currentYear} Aryan Ameri
     </div>
     <div class="license-wrapper flex items-center gap-1">
       <span>This website is licenced under</span>
