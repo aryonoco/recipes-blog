@@ -55,7 +55,9 @@ module.exports = {
         transparent: "transparent",
       },
       fontFamily: {
-        mono: ["IBM Plex Mono", "monospace"],
+        sans: ["Space Grotesk", "sans-serif"],
+        mono: ["Space Mono", "monospace"],
+        serif: ["Fraunces", "serif"],
       },
 
       typography: {
@@ -63,9 +65,16 @@ module.exports = {
           css: {
             pre: {
               color: false,
+              'font-family': '"Space Mono", monospace'
             },
             code: {
               color: false,
+              'font-family': '"Space Mono", monospace'
+            },
+            'h1, h2, h3, h4, h5, h6': {
+              'font-family': '"Fraunces", serif',
+              'font-optical-sizing': 'auto',
+              'font-variation-settings': '"SOFT" 0, "WONK" 1',
             },
           },
         },
