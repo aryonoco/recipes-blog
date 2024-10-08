@@ -26,6 +26,12 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "Home",
+    href: "https://ameri.coffee",
+    linkTitle: `Aryan's Homepage`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/aryonoco",
     linkTitle: ` Aryan on Github`,
