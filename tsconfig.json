@@ -13,6 +13,6 @@
       "@styles/*": ["styles/*"],
       "@utils/*": ["utils/*"]
     },
-    "types": ["astro/client"]
+    "types": ["astro/client", "@astrojs/react", "@astrojs/sitemap"]
   }
 }
