@@ -1,10 +1,78 @@
 @font-face {
   font-family: "Space Grotesk";
+  font-optical-sizing: auto;
+  font-weight: 100;
   font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-optical-sizing: auto;
   font-weight: 400;
+  font-style: normal;
   font-display: swap;
   src: url("/fonts/space-grotesk-v13-latin-regular.woff2") format("woff2");
+  src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
 }
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+}
+
+/* Add other variations (bold, italic, etc.) as needed 
+@font-face {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" <softness>,
+    "WONK" <wonky>;
+}
+
 
 @font-face {
   font-family: "Space Mono";
@@ -22,4 +90,4 @@
   src: url("/fonts/fraunces-v24-latin-regular.woff2") format("woff2");
 }
 
-/* Add other variations (bold, italic, etc.) as needed */
+*/
