@@ -31,7 +31,6 @@
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  src: url("/fonts/space-grotesk-v13-latin-regular.woff2") format("woff2");
   src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
 }
 
@@ -62,32 +61,261 @@
   src: url("/public/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
 }
 
-/* Add other variations (bold, italic, etc.) as needed 
 @font-face {
-  font-family: "Fraunces", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Space Mono";
+  font-weight: 400;
   font-style: normal;
-  font-variation-settings:
-    "SOFT" <softness>,
-    "WONK" <wonky>;
+  font-display: swap;
+  src: url("/public/fonts/SpaceMono-Regular.woff2") format("woff2");
 }
-
 
 @font-face {
   font-family: "Space Mono";
+  font-weight: 700;
   font-style: normal;
-  font-weight: 400;
   font-display: swap;
-  src: url("/fonts/space-mono-v12-latin-regular.woff2") format("woff2");
+  src: url("/public/fonts/SpaceMono-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Mono";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/SpaceMono-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Mono";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/SpaceMono-BoldItalic.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 100;
   font-style: normal;
-  font-weight: 400;
   font-display: swap;
-  src: url("/fonts/fraunces-v24-latin-regular.woff2") format("woff2");
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
 }
 
-*/
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+  src: url("/public/fonts/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.woff2")
+    format("woff2");
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 1;
+}
