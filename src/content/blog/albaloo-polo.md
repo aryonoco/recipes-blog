@@ -1,5 +1,5 @@
 ---
-author: Blog Writer
+author: Aryan Ameri
 pubDatetime: 2023-11-03T13:00:00Z
 title: Albaloo Polo (Sour Cherries with Rice)
 postSlug: albaloo-polo
@@ -24,7 +24,6 @@ Sour cherries (Albaloo) are a cousin of the more widely known cherries, native t
 ## Notes
 
 - It’s best to make the sour cherry syrup the night before and have it settle overnight.
-- Albaloo Polo is served with Persian Rice. Follow that recipe until step 7, before filling the pot with half cooked rice.
 - You can find sour cherries at your local Iranian/Turkish grocery, generally pitted and frozen. They can be used in this form without thawing.
 - This recipe uses boneless chicken breast and thigh, but Albaloo Polo can also be made with any meat, including minced beef formed into small meatballs. You can also skip the meat for a vegetarian dish.
 
@@ -54,6 +53,7 @@ Sour cherries (Albaloo) are a cousin of the more widely known cherries, native t
 
 ## Method
 
+1. Albaloo Polo is served with [Persian Polo](../persian-polo). Follow that recipe until step 7, before filling the pot with half cooked rice.
 1. Put the sour cherries and the sugar in a heavy-bottomed pot over high heat. Once boiling, lower the heat to medium and stir the sour cherries to ensure they are coated well with the sugar. Simmer for 15 to 20 minutes until the syrup thickens. Store the syrup at room temperature overnight.
 1. Heat olive oil in a large non-stick frying pan over medium-high heat. Add the onion, garlic, ginger and turmeric. Stir frequently and quickly for two minutes until the onion is golden and the aroma of turmeric comes out.
 1. Add the pieces of chicken to the pot, cover with water. Once simmering, reduce heat to medium and let it simmer for 1–2 hours. Add salt and pepper. At the end there should roughly be about 2 cups of “chicken jus” left in the pan.

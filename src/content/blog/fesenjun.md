@@ -1,6 +1,7 @@
 ---
-author: Blog Writer
+author: Aryan Ameri
 pubDatetime: 2023-11-03T04:00:00Z
+modDateTime: 2024-10-09T00:09:40Z
 title: Fesenjun (Slow cooked duck or chicken with pomegranate molasses and walnut kernels)
 postSlug: fesenjun
 featured: true
@@ -23,7 +24,7 @@ Fesenjun is a slow cooked dish traditionally made with game bird (quail, duck, p
 
 ## Notes
 
-- Fesenjun is generally served with [Persian rice](./persian-polo).
+- Fesenjun is generally served with [Persian polo](../persian-polo).
 - This recipe uses duck breasts but you can replace that with any other game bird. Nowadays, due to cost and availability, chicken is the most common meat used in this dish; and admittedly I’ve had it a lot more often with chicken than with any other meat.
 - Many people think Fesenjun tastes better once it has stayed in the fridge overnight. Accordingly some make it the day before and leave it overnight to “settle”.
 - Fesenjun can also be served cold, especially as an appetizer.
@@ -68,4 +69,4 @@ Fesenjun is a slow cooked dish traditionally made with game bird (quail, duck, p
 1. Tip the contents of the pan including the glaze and the duck pieces into the pot.
 1. Add the saffron water to the pot. Add salt and pepper to taste.
 1. With the duck pieces in, cook for another 1–2 hours on gentle heat until you get to the desired consistency. You can leave the pot covered or uncovered based on how much water is left in the pot. Stir every half an hour or so. If using sugar, you can add it during the last hour.
-1. Serve with [rice](./persian-polo).
+1. Serve with [rice](../persian-polo).

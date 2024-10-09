@@ -1,5 +1,5 @@
 ---
-author: Blog Writer
+author: Aryan Ameri
 pubDatetime: 2023-11-03T05:00:00Z
 title: Zereshk Polo (Barberries with Chicken & Rice)
 postSlug: zeresh-polo
