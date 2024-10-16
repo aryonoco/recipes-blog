@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://recipes.ameri.coffee/",
   author: "Aryan Ameri",
-  profile: "https://aa.omg.lol/",
+  profile: "https://ameri.coffee/",
   desc: "A small (but hopefully ever growing) collection of my personal Iranian (or Iranian inspired) recipes.",
   title: "Aryan's Recipes",
   lightAndDarkMode: true,
@@ -27,7 +27,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Home",
-    href: "https://aa.omg.lol",
+    href: "https://ameri.coffee",
     linkTitle: `Home`,
     active: true,
   },
