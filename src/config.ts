@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Home",
     href: "https://aa.omg.lol",
-    linkTitle: `Profile`,
+    linkTitle: `Home`,
     active: true,
   },
   {
