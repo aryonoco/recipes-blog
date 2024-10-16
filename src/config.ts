@@ -26,15 +26,15 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
-    name: "Home",
-    href: "https://ameri.coffee",
-    linkTitle: `Aryan's Homepage`,
+    name: "Profile",
+    href: "https://aa.omg.lol",
+    linkTitle: `Profile`,
     active: true,
   },
   {
     name: "Github",
     href: "https://github.com/aryonoco",
-    linkTitle: ` Aryan on Github`,
+    linkTitle: `Github`,
     active: true,
   },
   {
@@ -51,9 +51,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: false,
+    href: "https://www.linkedin.com/in/ryan-ameri/",
+    linkTitle: `LinkedIn`,
+    active: true,
   },
   {
     name: "Mail",
@@ -147,8 +147,8 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mastodon",
-    href: "https://aus.social/@barmakid",
-    linkTitle: `Aryan on Mastodon`,
+    href: "https://social.lol/@aa",
+    linkTitle: `Mastodon`,
     active: true,
   },
 ];
