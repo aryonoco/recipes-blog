@@ -26,9 +26,9 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
-    name: "Home",
+    name: "Switchboard",
     href: "https://ameri.coffee",
-    linkTitle: `Home`,
+    linkTitle: `Switchboard`,
     active: true,
   },
   {
