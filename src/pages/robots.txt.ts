@@ -41,8 +41,8 @@ User-agent: OAI-SearchBot
 User-agent: omgili
 User-agent: omgilibot
 User-agent: PanguBot
+User-agent: Perplexity-User
 User-agent: PerplexityBot
-User-agent: Perplexity‑User
 User-agent: PetalBot
 User-agent: Scrapy
 User-agent: SemrushBot-OCOB
