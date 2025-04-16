@@ -38,9 +38,11 @@ User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
 User-agent: Meta-ExternalAgent
 User-agent: Meta-ExternalFetcher
+User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: omgili
 User-agent: omgilibot
+User-agent: Operator
 User-agent: PanguBot
 User-agent: Perplexity-User
 User-agent: PerplexityBot
