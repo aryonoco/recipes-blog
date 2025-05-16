@@ -53,6 +53,7 @@ User-agent: PanguBot
 User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
+User-agent: QualifiedBot
 User-agent: Scrapy
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
