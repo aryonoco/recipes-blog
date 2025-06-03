@@ -9,6 +9,7 @@ User-agent: AI2Bot
 User-agent: Ai2Bot-Dolma
 User-agent: aiHitBot
 User-agent: Amazonbot
+User-agent: Andibot
 User-agent: anthropic-ai
 User-agent: Applebot
 User-agent: Applebot-Extended
@@ -40,7 +41,6 @@ User-agent: iaskspider/2.0
 User-agent: ICC-Crawler
 User-agent: ImagesiftBot
 User-agent: img2dataset
-User-agent: imgproxy
 User-agent: ISSCyberRiskCrawler
 User-agent: Kangaroo Bot
 User-agent: meta-externalagent
@@ -57,6 +57,7 @@ User-agent: PanguBot
 User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
+User-agent: PhindBot
 User-agent: QualifiedBot
 User-agent: Scrapy
 User-agent: SemrushBot-OCOB
