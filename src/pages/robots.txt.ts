@@ -59,6 +59,7 @@ User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
 User-agent: QualifiedBot
+User-agent: SBIntuitionsBot
 User-agent: Scrapy
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
@@ -68,6 +69,8 @@ User-agent: Timpibot
 User-agent: VelenPublicWebCrawler
 User-agent: Webzio-Extended
 User-agent: wpbot
+User-agent: YandexAdditional
+User-agent: YandexAdditionalBot
 User-agent: YouBot
 Disallow: /
 
