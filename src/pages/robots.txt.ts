@@ -13,6 +13,7 @@ User-agent: Andibot
 User-agent: anthropic-ai
 User-agent: Applebot
 User-agent: Applebot-Extended
+User-agent: Awario
 User-agent: bedrockbot
 User-agent: Brightbot 1.0
 User-agent: Bytespider
@@ -26,8 +27,11 @@ User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
 User-agent: Crawlspace
+User-agent: Datenbank Crawler
+User-agent: Devin
 User-agent: Diffbot
 User-agent: DuckAssistBot
+User-agent: Echobot Bot
 User-agent: EchoboxBot
 User-agent: FacebookBot
 User-agent: facebookexternalhit
@@ -50,6 +54,7 @@ User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
 User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
+User-agent: MistralAI-User
 User-agent: MistralAI-User/1.0
 User-agent: MyCentralAIScraperBot
 User-agent: NovaAct
@@ -80,6 +85,7 @@ User-agent: Sidetrade indexer bot
 User-agent: TikTokSpider
 User-agent: Timpibot
 User-agent: VelenPublicWebCrawler
+User-agent: WARDBot
 User-agent: Webzio-Extended
 User-agent: wpbot
 User-agent: YandexAdditional
